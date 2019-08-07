@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kinedu Android Test</string>
+    <string name="activity_name">Crawling</string>
+    <string name="tab_text_1">Activities</string>
+    <string name="tab_text_2">Articles</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_msg">An error occurred while loading data</string>
+</resources>

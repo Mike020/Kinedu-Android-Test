@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="my_spinner_text_color">#fff</color>
+    <color name="header">#2276B9</color>
+    <color name="tab_header">#1C5F94</color>
+    <color name="titleColor">#2CAEDD</color>
+    <color name="bottomLineColor">#E8E8E8</color>
+</resources>
